@@ -1,8 +1,8 @@
 <div align="center">
-  <a href="https://youtu.be/qAUiahzraFw">
-    <img src="https://img.youtube.com/vi/qAUiahzraFw/0.jpg" alt="WorldMonitor GitHub dropped: Get FREE 500 global feed dashboard">
+  <a href="https://youtu.be/6j_HDyUVpso">
+    <img src="https://img.youtube.com/vi/6j_HDyUVpso/0.jpg" alt="Xiaomi MiMo V2.6: Qwen 9B Updated Coding Agent on 3GB VRAM!">
   </a>
-  <h3>📺 <a href="https://youtu.be/qAUiahzraFw">Watch the full tutorial on YouTube</a></h3>
+  <h3>📺 <a href="https://youtu.be/6j_HDyUVpso">Watch the full tutorial on YouTube</a></h3>
 </div>
 
 # ⚡ MiMo V2.6 Local Agent
